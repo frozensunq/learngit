@@ -1,3 +1,4 @@
 GIt is a distributed version control system.
 Git is free software distributed under GPL.
 But I still should learn something.
+I'm a little tired today. Should sleep early.
